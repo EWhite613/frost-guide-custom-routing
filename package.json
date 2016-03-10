@@ -1,6 +1,6 @@
 {
   "name": "frost-guide-custom-routing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/EWhite613/frost-guide-custom-routing",
   "engines": {
     "node": ">= 0.10.0"
   },
